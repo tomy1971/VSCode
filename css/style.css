@@ -4,3 +4,6 @@ body {
 div {
     display: flex;
 }
+.marge {
+    margin-top: 30px;
+}
